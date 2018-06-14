@@ -1,6 +1,7 @@
 ---
 title: "Lab 00"
 subtitle: "RMarkdown and Paths"
+author: "Pawan Sajnani"
 date: "2018-01-24"
 output: html_document
 ---
@@ -22,6 +23,14 @@ Write an unordered list of your classes this semester.
 1. Create a link so that when the short course name is clicked it 
    will take you to the course description in the course explorer. 
 1. Make the long title (Statistics Programming Methods) italic.
+
+- [**STAT 385**](https://courses.illinois.edu/schedule/2018/summer/STAT/385) _Statistics Programming Methods_
+- [**MCB 250**](https://courses.illinois.edu/schedule/2018/summer/MCB/250) _Molecular Genetics_
+
+
+
+
+
 
 If you need help with syntax, go to the "Help" menu and select the 
 _Markdown Quick Reference_ guide. This will open in the **Help** tab on
